@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/BenTestBlazorWasmOnGithubCodespace/MaPremiereAppBlazor/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/workspaces/BenTestBlazorWasmOnGithubCodespace/MaPremiereAppBlazor/obj/Debug/net8.0/compressed/ut30b7ux25.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/workspaces/BenTestBlazorWasmOnGithubCodespace/MaPremiereAppBlazor/obj/Debug/net8.0/scopedcss/bundle/MaPremiereAppBlazor.styles.css",
+      "PackagePath": "staticwebassets/MaPremiereAppBlazor.styles.css"
+    },
+    {
+      "Id": "/workspaces/BenTestBlazorWasmOnGithubCodespace/MaPremiereAppBlazor/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/workspaces/BenTestBlazorWasmOnGithubCodespace/MaPremiereAppBlazor/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/BenTestBlazorWasmOnGithubCodespace/MaPremiereAppBlazor/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/BenTestBlazorWasmOnGithubCodespace/MaPremiereAppBlazor/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/workspaces/BenTestBlazorWasmOnGithubCodespace/MaPremiereAppBlazor/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/workspaces/BenTestBlazorWasmOnGithubCodespace/MaPremiereAppBlazor/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/workspaces/BenTestBlazorWasmOnGithubCodespace/MaPremiereAppBlazor/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MaPremiereAppBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MaPremiereAppBlazor.props",
+      "PackagePath": "build\\MaPremiereAppBlazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MaPremiereAppBlazor.props",
+      "PackagePath": "buildMultiTargeting\\MaPremiereAppBlazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MaPremiereAppBlazor.props",
+      "PackagePath": "buildTransitive\\MaPremiereAppBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
